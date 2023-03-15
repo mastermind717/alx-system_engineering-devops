@@ -1,1 +1,1 @@
-My Readme
+Command to create an alias

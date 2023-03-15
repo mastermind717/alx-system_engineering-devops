@@ -1,2 +1,2 @@
-My first readme
-Still updating my readme as I upgrade in learning.
+## Alx-sysyem Engineering & DevOps
+![](https://www.codemotion.com/magazine/wp-content/uploads/2020/09/devops-1024x527.png)
