@@ -1,6 +1,6 @@
 what happens when you type google.com in your browser and press Enter
 
-In this project, I am asked to create a blog explaining about the web 2.0 infrusture. Understanding this concept is very important for a fullstack software engineer.
+In this project, I am asked to create a blog explaining the web 2.0 infrusture. Understanding this concept is very important for a fullstack software engineer.
 
 ## Task 0
 <p>This question is a classic and still widely used interview question for many types of software engineering position. It is used to assess a candidate’s general knowledge of how the web stack works on top of the internet. One important guideline to begin answering this question is that you should ask your interviewer whether they would like you to focus in on one specific area of the workflow. For a front-end position they may want you to talk at length about how the DOM is rendering. For an SRE position they may want you to go into the load balancing mechanism.</p>
@@ -36,4 +36,4 @@ The diagram should show:
 - that the application server generates the web page
 - that the application server request data from the database
 
-The image diagram I made is [here](https://github.com/Natzsmart/alx-system_engineering-devops/blob/main/0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter/1-what_happen_when_diagram.jpeg)
+The image diagram I made is [here] (https://github.com/mastermind717/alx-system_engineering-devops/blob/master/0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter/1-what_happen_when_diagram.jpeg)
